@@ -1,3 +1,8 @@
+# About
+This project was created as part of an assignment or coursework for CSE102 Computer Programming. As a first-year Computer Engineering student, I developed this project to enhance my skills in software development and algorithm design.
+
+If you're reviewing this project, your feedback or suggestions would be greatly appreciated. Thank you!
+
 # RPG Character Management System
 
 A comprehensive Role-Playing Game (RPG) character management system implemented in Java, featuring various character classes, combat mechanics, and spell systems.
